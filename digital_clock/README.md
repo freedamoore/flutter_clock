@@ -2,7 +2,7 @@
 
 This app builds on the example digital clock provided by flutter. 
 
-I aimed for a an easy to read design using no assets, just pure Flutter.
+I aimed for an easy to read design using no assets, just pure Flutter.
 
 I've changed it so that the colour of the seconds, minutes and hours change depending on the time with a gradient effect. The colour of the seconds changes every second, the colour of the minutes change every minute and the colour of the hours change every hour.
 
